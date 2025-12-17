@@ -46,6 +46,11 @@ The project is simulated using **Tinkercad Circuits** to verify functionality be
 
 ---
 
+##  Simulation Demo
+https://drive.google.com/file/d/11lPXEuzCoNaNwmhIoGqbVnIar1zG7Vgf/view?usp=sharing
+
+---
+
 ## 🚀 Future Enhancements
 - Motion-based control using PIR sensors
 - Solar-powered street lighting
